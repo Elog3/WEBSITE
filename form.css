@@ -1,0 +1,110 @@
+body{
+    background-image: url(1.jpeg);
+    height: 100vh;
+    background-color: #fff;
+    background-size: cover;
+    background-position: center;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	background-image: url(3.JPG);
+	max-width: 500px;
+	margin: 100px auto;
+	padding: 20px;
+	border: 1px solid #8b1818;
+	border-radius: 5px;
+	text-align: center;
+}
+
+h2 {
+	margin-bottom: 20px;
+}
+
+label {
+	display: block;
+	margin-bottom: 5px;
+}
+input{
+	padding: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	border-color: #AF5A04;
+	border-radius: 5px;
+	font-size: 16px;
+	background: none;
+    color: #AF5A04;
+}
+
+button[type="submit"] {
+	padding: 10px 20px;
+	background-color: #1F1E1E;
+	color: #AF5A04;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+	font-size: 16px;
+}
+
+button[type="submit"]:hover {
+	background-color: #3e8e41;
+}
+
+p {
+	margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #AF5A04;
+}
+
+.hey {
+    border-color: #AF5A04;
+    border-style: solid;
+}
+#emailbar{
+	color: white;
+	margin-left: -5cm;
+}
+
+#passbar{
+	color: white;
+	margin-left: -4cm;
+	top: 1cm;
+}
+
+#pass{color: white;
+	margin-left: -2.5cm;
+	top: 1cm;
+
+}
+
+.log{
+	color: white;
+}
+
+.create {
+	color: white;
+
+}
+.create{
+	color: white;
+}
+
+#email{
+	color: white;
+	margin-left: -5cm;
+}
+
+.login{
+	color: white;
+}
+p{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
